@@ -1,0 +1,9 @@
+RMCG_Main = 44, 44, 573, 492, 
+DX8_Interface = 66, 66, 595, 514, 
+RMCG_Defines = 88, 88, 617, 536, 
+RMCG_Errors = 88, 88, 617, 536, 
+RMCG_Window = 0, 0, 0, 0, C, 110, 110, 639, 558, C
+RMCG_Input = 66, 66, 595, 514, 
+RMCG_Render = 132, 132, 661, 580, 
+RMCG_Meshes = 154, 154, 683, 602, 
+RMCG_Transforms = 176, 176, 705, 624, 
